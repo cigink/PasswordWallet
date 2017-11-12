@@ -1,6 +1,6 @@
 # Python 3
 # this is a test program to store passwords
-
+# By Cigin Koshy
 PASSWORDS = {'facebook' : 'Password',
              'gmail' : 'Password2'
              }
